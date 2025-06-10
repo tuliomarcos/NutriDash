@@ -1,0 +1,216 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Carlos Silva",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": "2",
+      "name": "Ana Oliveira",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": "3",
+      "name": "Bruno Santos",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "4",
+      "name": "Elias Costa",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": "5",
+      "name": "Julia Pereira",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "6",
+      "name": "Ricardo Almeida",
+      "avatar": "https://i.pravatar.cc/150?img=7"
+    }
+  ],
+  "mealPlans": [
+    {
+      "id": "101",
+      "patientId": 1,
+      "date": "2025-06-07",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "Ovo Cozido",
+              "calories": 78,
+              "protein": 6,
+              "carbs": 0.6,
+              "fat": 5
+            }
+          ]
+        },
+        {
+          "name": "Almoço",
+          "time": "12:30",
+          "items": [
+            {
+              "name": "Frango Grelhado (100g)",
+              "calories": 165,
+              "protein": 31,
+              "carbs": 0,
+              "fat": 3.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "patientId": 1,
+      "date": "2025-05-15",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "Iogurte Natural",
+              "calories": 59,
+              "protein": 10,
+              "carbs": 3.6,
+              "fat": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71d3",
+      "patientId": "1",
+      "date": "2025-06-07",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "",
+              "calories": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb5e",
+      "patientId": "1",
+      "date": "2025-06-08",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "Banana",
+              "calories": 2,
+              "protein": 4,
+              "carbs": 55,
+              "fat": 0
+            },
+            {
+              "name": "Maçã",
+              "calories": 2,
+              "protein": 3,
+              "carbs": 4,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9cf1",
+      "patientId": "1",
+      "date": "2025-06-07",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "",
+              "calories": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c08",
+      "patientId": "1",
+      "date": "2025-06-10",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "Banana",
+              "calories": 4,
+              "protein": 1,
+              "carbs": 2,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "498a",
+      "patientId": "3",
+      "date": "2025-06-10",
+      "meals": [
+        {
+          "name": "Café da Manhã",
+          "time": "08:00",
+          "items": [
+            {
+              "name": "",
+              "calories": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ed6",
+      "patientId": "2",
+      "date": "2025-06-10",
+      "meals": [
+        {
+          "name": "Nova Refeição",
+          "time": "12:00",
+          "items": [
+            {
+              "name": "",
+              "calories": 0,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
